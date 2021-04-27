@@ -9,20 +9,12 @@
 	],
 "creatorBuild": "32137",
 "files": {
-	"/401.html": {
+	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/401.html",
-		"oF": 0
-		},
-	"/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/404.html",
+		"oA": 1,
+		"oAP": "/_config.yml",
 		"oF": 0
 		},
 	"/css/chomp-test-eb3d0d.webflow-min.css": {
@@ -583,30 +575,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/template/changelog.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/template/changelog.html",
-		"oF": 0
-		},
-	"/template/licence.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/template/licence.html",
-		"oF": 0
-		},
-	"/template/styleguide.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/template/styleguide.html",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -615,7 +583,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 641219306.04207599,
-	"displayValue": "chomp-test-eb3d0d.webflow",
+	"displayValue": "supercycle.finance",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-pale",
 	"iconImageWasSetByUser": 0
