@@ -2018,6 +2018,11 @@ li {
   font-size: 15px;
 }
 
+.notice-token {
+  background-image: none!important;
+  background-color: ;
+}
+
 .banner-wrap {
   display: -webkit-box;
   display: -webkit-flex;

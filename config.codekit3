@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "0CCEF071-75F6-492C-97A2-B37A505F0516"
+		"uuidString": "027802BB-9710-42E7-99EC-A8379816A041"
 		}
 	],
 "creatorBuild": "32137",
@@ -15,6 +15,14 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/_config.yml",
+		"oF": 0
+		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
 		"oF": 0
 		},
 	"/css/chomp-test-eb3d0d.webflow-min.css": {
@@ -565,6 +573,17 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/js/webflow-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/webflow-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/js/webflow.js": {
 		"bF": 0,
 		"ft": 64,
@@ -582,10 +601,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 641219306.04207599,
+	"creationDate": 641285828.118083,
 	"displayValue": "supercycle.finance",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets-pale",
+	"iconImageName": "brackets-azure",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
