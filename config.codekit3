@@ -222,6 +222,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/favicons/16x16.png": {
+		"ft": 32768,
+		"iS": 789,
+		"oA": 0,
+		"oAP": "/images/favicons/16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/favicons/32x32.png": {
+		"ft": 32768,
+		"iS": 1781,
+		"oA": 0,
+		"oAP": "/images/favicons/32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/favicons/96x96.png": {
+		"ft": 32768,
+		"iS": 5849,
+		"oA": 0,
+		"oAP": "/images/favicons/96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/Group-42.png": {
 		"ft": 32768,
 		"iS": 19681,
@@ -520,17 +553,6 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
-		},
-	"/images/webclip.png": {
-		"ft": 32768,
-		"iS": 11583,
-		"oA": 0,
-		"oAP": "/images/webclip.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"/images/YumYum-p-130x130q80.png": {
 		"ft": 32768,
