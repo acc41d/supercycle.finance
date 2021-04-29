@@ -648,6 +648,11 @@ textarea.w-select {
   .w-hidden-main {
     display: inherit !important;
   }
+
+.mobile-stats {
+  margin-bottom: 80px!important;
+}
+
   .w-hidden-medium {
     display: inherit !important;
   }
