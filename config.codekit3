@@ -554,6 +554,17 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/images/webclip.png": {
+		"ft": 32768,
+		"iS": 15395,
+		"oA": 0,
+		"oAP": "/images/webclip.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/YumYum-p-130x130q80.png": {
 		"ft": 32768,
 		"iS": 2752,
